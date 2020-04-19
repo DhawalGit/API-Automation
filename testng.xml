@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Automation Test">
+	<test name="Test Rest API">
+		<classes>
+			<!-- <class name="APIAutomation.com.org.appliedselenium.WeatherGetRequest" 
+				/> -->
+
+			<class
+				name="APIAutomation.com.org.appliedselenium.WeatherGetParam">
+				<methods>
+					<include name="Test_05" />
+					
+				</methods>
+			</class>
+
+		</classes>
+	</test>
+
+</suite>
+ 

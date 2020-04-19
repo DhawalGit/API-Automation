@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [API Automation Test]">
+  <test thread-count="5" name="Test Rest API(failed)">
+    <classes>
+      <class name="APIAutomation.com.org.appliedselenium.WeatherGetParam">
+        <methods>
+          <include name="Test_05"/>
+        </methods>
+      </class> <!-- APIAutomation.com.org.appliedselenium.WeatherGetParam -->
+    </classes>
+  </test> <!-- Test Rest API(failed) -->
+</suite> <!-- Failed suite [API Automation Test] -->

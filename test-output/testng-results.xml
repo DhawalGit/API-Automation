@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="API Automation Test" duration-ms="4079" started-at="2020-04-19T19:43:18Z" finished-at="2020-04-19T19:43:22Z">
+    <groups>
+    </groups>
+    <test name="Test Rest API" duration-ms="4079" started-at="2020-04-19T19:43:18Z" finished-at="2020-04-19T19:43:22Z">
+      <class name="APIAutomation.com.org.appliedselenium.WeatherGetParam">
+        <test-method status="PASS" signature="Test_05()[pri:0, instance:APIAutomation.com.org.appliedselenium.WeatherGetParam@6f7fd0e6]" name="Test_05" duration-ms="4041" started-at="2020-04-19T19:43:18Z" finished-at="2020-04-19T19:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_05 -->
+      </class> <!-- APIAutomation.com.org.appliedselenium.WeatherGetParam -->
+    </test> <!-- Test Rest API -->
+  </suite> <!-- API Automation Test -->
+</testng-results>
