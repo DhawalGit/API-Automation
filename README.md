@@ -1,6 +1,6 @@
 # API-Automation Using Java #
 
-** NOTE: Generate your own API key while working this project **
+**NOTE: Generate your own API key while working this project**
 
 1. This project is created to understand and learn the concepts of API Automation.
 
